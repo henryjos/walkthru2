@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a sample repo for walkthru 2 of the fastai course.
+This is a sample repo for walkthru2 of the fastai course.
 
 This is another paragraph.
 
@@ -12,3 +12,5 @@ Here's a list:
 
 - First
 - Second
+- Three
+- Four
