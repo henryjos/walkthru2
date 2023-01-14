@@ -8,18 +8,23 @@ This is another paragraph.
 
 ## More details
 
-Here's a list:
+### Here's a list:
 
 - First
 - Second
 - Three
 - Four
-- Five: Third time
+- Five: Fourth time
 
-## Using Ubuntu
+### Using Ubuntu
 
 This is a an Ubuntu update:
 
 - a
 - b
 - c
+
+This is an Ubuntu update featuring ordered list
+
+1. All on Ubuntu
+2. Looking for GitHub in File Explorer
